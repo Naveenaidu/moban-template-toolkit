@@ -1,0 +1,9 @@
+[% IF ten == twenty %]
+I canna break the laws of mathematics, Captain.
+[% ELSIF ten > twenty %]
+Your numerical system is inverted.  Please reboot your Universe.
+[% ELSIF twenty < ten %]
+Your inverted system is numerical.  Please universe your reboot.
+[% ELSE %]
+Normality is restored.  Anything you can't cope with is your own problem.
+[% END %]

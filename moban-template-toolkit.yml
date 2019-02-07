@@ -1,0 +1,14 @@
+name: "moban-template-toolkit"
+organisation: "moremoban"
+author: "Naveen Naidu"
+contact: "wangc_2011@hotmail.com"
+company: "Moremoban dev team and its contributors"
+version: "0.0.1"
+current_version: "0.0.1"
+release: "0.0.0"
+copyright_year: 2019-2020
+license: MIT
+dependencies:
+        - Template-Toolkit-Python
+        - lml>=0.0.7
+description: "Provide Perl's Template Toolkit templating capability to moban"
